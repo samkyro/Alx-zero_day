@@ -1,0 +1,7 @@
+The rule to never push file generate in emacs is;
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+./
